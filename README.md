@@ -1,3 +1,2 @@
-# hello-world
-it's a test on how to using github, there is nothing here.
-it's a test for sync
+数据分析学习记录
+from 2020.09.21
